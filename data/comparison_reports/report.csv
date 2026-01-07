@@ -1,0 +1,4 @@
+Model,Prompt,Response,Timestamp
+chatgpt,hello,Hello! How can I assist you today?,2026-01-07 10:00:59
+gemini,hello,Hello! How can I help you today?,2026-01-07 10:00:59
+llama,hello,Hello. How can I assist you today?,2026-01-07 10:00:59
